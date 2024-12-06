@@ -2,7 +2,7 @@
 
 Situational Awareness script to identify how and where to run implants
 
-For more information, refer to [this blogpost](https://rwxstoned.github.io)
+For more information, refer to [this blogpost](https://rwxstoned.github.io/2024-12-06-GimmeShelter/)
 
 # Usage
 
